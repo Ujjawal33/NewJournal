@@ -1,0 +1,27 @@
+[
+    {
+        "id" :1,
+        "name": "Work at Client Location"
+    },
+    {
+        "id" :2,
+        "name": "Available on Client suggested place"
+    },
+    {
+        "id" :3,
+        "name": "Available on Client suggested place x days/week"
+    },
+    {
+        "id" :4,
+        "name": "Remote Working"
+    },
+    {
+        "id" :5,
+        "name": "Relocation"
+    },
+    {
+        "id" :6,
+        "name": "Work Time Zone"
+    }
+
+]

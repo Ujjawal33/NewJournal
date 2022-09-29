@@ -1,0 +1,33 @@
+[
+    {
+       "id": 1,
+       "name" : "John",
+       "type" : "writer",
+       "pic" :"https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+       "location" : "USA"
+    },
+    {
+       "id": 2,
+       "name" : "jackie",
+       "type" : "writer",
+       "pic" :"https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+       "location" : "UK"
+   
+   },
+   {
+       "id": 3,
+       "name" : "Mithun",
+       "type" : "writer",
+       "pic" :"https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",    
+       "location" : "USA"
+   
+   },
+   {
+       "id": 4,
+       "name" : "Jim bolt",
+       "type" : "writer",
+       "pic" :"https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+       "location" : "UK"
+   
+   }
+   ]
